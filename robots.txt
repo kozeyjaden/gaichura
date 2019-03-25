@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://utooquixu.opensourcedesign.net/sitemap.xml
